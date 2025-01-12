@@ -1,7 +1,4 @@
-![Screenshot 2025-01-13 001639](https://github.com/user-attachments/assets/27a4ab53-9e4e-4165-8e99-a606f62d6f0c)
-![Screenshot 2025-01-13 001627](https://github.com/user-attachments/assets/addea32f-da2d-4097-8606-78718593ee79)
-![Screenshot 2025-01-13 001607](https://github.com/user-attachments/assets/b1e340da-fe92-44f8-8ff3-29ae40715cbf)
-![Screenshot 2025-01-13 001538](https://github.com/user-attachments/assets/0a416c2a-d22a-4f37-a420-b1f8f312c39b)
+
 # -iNeuron
 Restaurant Rating Prediction
 📊 Restaurant Rating Prediction System
@@ -61,3 +58,7 @@ NumPy: For numerical operations 🧮
 Matplotlib/Seaborn: For EDA visualizations 📊
 Scikit-learn: Library for building machine learning models 🤖
 Flask-RESTful: For API development 🌐
+![Screenshot 2025-01-13 001639](https://github.com/user-attachments/assets/27a4ab53-9e4e-4165-8e99-a606f62d6f0c)
+![Screenshot 2025-01-13 001627](https://github.com/user-attachments/assets/addea32f-da2d-4097-8606-78718593ee79)
+![Screenshot 2025-01-13 001607](https://github.com/user-attachments/assets/b1e340da-fe92-44f8-8ff3-29ae40715cbf)
+![Screenshot 2025-01-13 001538](https://github.com/user-attachments/assets/0a416c2a-d22a-4f37-a420-b1f8f312c39b)
